@@ -1,1 +1,11 @@
+Cómo compartir información confiable en internet.
 
+Entrar a internet
+buscar la pagina web del correo electronico
+loging con el usuario y contraseña correspondiente
+buscar en el menu la opción de interes(enviar el correo)
+subir el documento PDF para enviar
+colocar el mensaje que acompañe el documento
+buscar el destinatario del correo
+verificar que se envie la información completa documento y mensaje
+enviar el correo alreceptor
