@@ -4,8 +4,8 @@ Entrar a internet
 Buscar la pagina web del correo electronico
 Loging con el usuario y contraseña correspondiente
 Buscar en el menu la opción de interes(enviar el correo)
-Subir el documento PDF para enviar
+git addSubir el documento PDF para enviar
 Colocar el mensaje que acompañe el documento
-Buscar el destinatario del correo
-Verificar que se envie la información completa documento y mensaje
-Enviar el correo al receptor
+git tag Buscar el destinatario del correo
+git verify-commit Verificar que se envie la información completa documento y mensaje
+git push Enviar el correo al receptor
